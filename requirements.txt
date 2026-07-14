@@ -1,0 +1,8 @@
+streamlit
+joblib
+reportlab
+scikit-learn==1.6.1
+xgboost
+catboost
+pandas
+numpy
