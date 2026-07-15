@@ -257,6 +257,11 @@ pip install -r requirements.txt
 - Explainable AI (SHAP/LIME)
 
 ---
+# Link of app : 
+
+https://diseases.streamlit.app/
+
+---
 
 # 👨‍💻 Developed By
 
